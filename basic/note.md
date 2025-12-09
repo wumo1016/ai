@@ -1,6 +1,11 @@
 ## 提示词
 
-- 提问的问题
+- User Prompt(用户提示词)
+  - 即用户输入的文本
+  - 例如："你好"、"请介绍一下你自己" 等
+- System Prompt(系统提示词)
+  - 用于描述 AI 模型的角色、性格、背景知识、语气等等(AI 内置的用户提示词, 用于引导模型生成符合预期的输出, 和用户提示词一起发送给 AI)
+  - 例如："你是一个专业的翻译"、"请用中文回答" 等
 
 ## 分词器
 
@@ -118,3 +123,73 @@
     - 量化后可能略微损失模型的推理精度, 尤其在极端压缩时
   - 应用场景：
     - 算力受限或需要高速响应的设备, 如手机、IoT 设备、浏览器等
+
+## AI Agent
+
+- 即一个智能体(Agent), 它可以根据用户输入, 调用不同的模型, 完成不同的任务
+- 负责用户、工具(Agent Tool)、模型之间的交互
+- 缺点
+  - 虽然告诉了它要返回什么格式的结果, 但它毕竟是一个概率模型, 还是可能返回格式不对(如果发现返回的结果不符合要求, 会尝试重新请求)
+
+## Agent Tool
+
+- 即一个工具(Tool), 它可以帮助 Agent 完成特定的任务
+
+## Function Calling
+
+- 统一格式、规范调用
+- System Prompt 的升级(从语义化描述到结构化描述)
+- 缺点
+  - 没有统一的标准, 每家大厂都有自己的实现方式
+- 例如将每个 Tool 都使用 JSON 格式进行定义
+  ```json 请求格式
+  {
+    "name": "calculator",
+    "description": "用于计算表达式",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "expression": {
+          "type": "string",
+          "description": "要计算的表达式"
+        }
+      },
+      "required": ["expression"]
+    }
+  }
+  ```
+  ```json 响应格式
+  {
+    "name": "calculator",
+    "description": "用于计算表达式",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "result": {
+          "type": "string",
+          "description": "表达式的计算结果"
+        }
+      },
+      "required": ["result"]
+    }
+  }
+  ```
+
+## MCP(Model-Centric Prompting)
+
+- 一个通信协议, 用于 Agent 与工具之间的交互, 规定了 MCP Server 和 MCP Client 之间的通信格式
+- 组成
+  - MCP Server: 运行 Tool 的服务
+  - MCP Client: 调用 MCP Server 的 Agent
+
+## 用户, AI Agent, MCP, 模型 之间的交互流程
+
+- 用户输入
+- AI Agent(MCP Client) 收到用户输入后, 调用 MCP Server 进行处理
+  - 首先 AI Agent 将用户输入包装在 User Prompt 中
+  - MCP Server 搜索对应的 Tool 的信息, 将结果返回给 MCP Server
+- MCP Server 将结果返回给 AI Agent(MCP Client) , 它会将这些 Tool 的信息转换成 System Prompt 或者 Function Calling 格式, 然后和 User Prompt 合并, 作为新的 Prompt 发送给 AI 模型
+- AI 模型通过普通回复或者 Function Calling 格式, 回复 AI Agent(MCP Client)
+- AI Agent(MCP Client) 去调用 MCP Server, 要求它执行某个 Tool, 然后将结果返回给 AI Agent(MCP Client)
+- AI Agent(MCP Client) 再转发给 AI 模型进行处理, 最终将结果返回给 AI Agent(MCP Client)
+- AI Agent(MCP Client) 将结果返回给用户
