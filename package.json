@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "openai": "^6.10.0"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
