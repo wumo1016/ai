@@ -11,7 +11,8 @@
 
 ## 马克的技术工坊
 
-- [2025/1/30 客观评测 DeepSeek-R1 与 o1 的效果](<(https://www.douyin.com/video/7465705998481755418)>)
+- [2025/1/30 客观评测 DeepSeek-R1 与 o1 的效果](https://www.douyin.com/video/7465705998481755418)
+- [2025/2/3 5分钟教会你如何本地部署DeepSeek-R1，无需联网](https://www.douyin.com/video/7467014931121048859)
 
 ## 未来
 
