@@ -1,2 +1,0 @@
-
-print("weather server started")
