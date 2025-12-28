@@ -16,6 +16,7 @@
 - [2025/2/4 使用 DeepSeek R1 搭建本地知识库](https://www.douyin.com/video/7467549685121699135)
 - [2025/4/15 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 基础篇](https://www.douyin.com/video/7493337216203148563)
 - [2025/4/19 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 进阶篇](https://www.douyin.com/video/7495023371781033266)
+- [2025/5/2 MCP 终极指南-番外篇：抓包分析 Cline 与模型的协议](https://www.douyin.com/video/7499835360306842919)
 
 ## 未来
 

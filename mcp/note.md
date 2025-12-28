@@ -120,3 +120,8 @@ uv add mcp "map[cli]" httpx
 - AI Agent(MCP Client) 去调用 MCP Server, 要求它执行某个 Tool, 然后将结果返回给 AI Agent(MCP Client)
 - AI Agent(MCP Client) 再转发给 AI 模型进行处理, 最终将结果返回给 AI Agent(MCP Client)
 - AI Agent(MCP Client) 将结果返回给用户
+
+## Mcp Server 与 大模型之前的通信
+
+- xml 格式
+- Function Calling 格式
