@@ -1,0 +1,2 @@
+
+print("weather server started")
