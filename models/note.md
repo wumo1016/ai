@@ -1,3 +1,29 @@
+## 大模型
+
+- OpenAI
+  - chatgpt
+  - codex
+- 谷歌
+  - Gemini
+- x
+  - Gork
+- Anthropic
+  - claude
+- deepseek
+  - deepseek
+- 字节
+  - 豆包
+- 阿里
+  - 通义千问
+- 智普
+  - GLM
+- 月之暗面
+  - Kimi
+- MiniMax
+  - MiniMax
+- 腾讯
+  - 元宝
+
 ## 原理
 
 - 生成分数(Logits)
