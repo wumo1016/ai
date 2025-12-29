@@ -71,8 +71,10 @@ uv add mcp "map[cli]" httpx
 
 ## Function Calling
 
-- 统一格式、规范调用
-- System Prompt 的升级(从语义化描述到结构化描述)
+- 统一格式、规范调用(System Prompt 的升级(从语义化描述到结构化描述))
+  - 解析工具列表
+  - 挑选工具并给出参数
+  - 解析工具执行结果
 - 缺点
   - 没有统一的标准, 每家大厂都有自己的实现方式
 - 例如将每个 Tool 都使用 JSON 格式进行定义
@@ -94,18 +96,9 @@ uv add mcp "map[cli]" httpx
   ```
   ```json 响应格式
   {
+    "role": "tool",
     "name": "calculator",
-    "description": "用于计算表达式",
-    "parameters": {
-      "type": "object",
-      "properties": {
-        "result": {
-          "type": "string",
-          "description": "表达式的计算结果"
-        }
-      },
-      "required": ["result"]
-    }
+    "content": "表达式的计算结果为: 42"
   }
   ```
 
