@@ -18,6 +18,7 @@
 - [2025/4/19 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 进阶篇](https://www.douyin.com/video/7495023371781033266)
 - [2025/5/2 MCP 终极指南-番外篇：抓包分析 Cline 与模型的协议](https://www.douyin.com/video/7499835360306842919)
 - [2025/5/18 MCP 与 Function Calling 到底什么关系](https://www.douyin.com/video/7505583429250026789)
+- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762195270929700)
 - [2025/11/29 Temperature & Top-p：大模型的创造力开关](https://www.douyin.com/video/7578100067626781979)
 
 ## 未来
