@@ -33,3 +33,17 @@
 - 与 MCP 的区别
   - MCP: 给大模型提供数据
   - Agent Skill: 教大模型如何处理数据
+
+## A2A 协议
+
+- 即 Agent 与 Agent 之间沟通的规范
+- 示例
+  - 调度 Agent(A2A Client)(Client Agent)
+    - 调度 Agent 负责协调其他 Agent 的工作
+    - 它会根据用户输入, 调用不同的 Agent, 完成不同的任务
+  - 天气 Agent(A2A Server)(Server Agent)
+    - 天气 Agent 负责查询天气
+    - 它会根据用户输入的城市, 查询该城市的天气
+  - 翻译 Agent(A2A Server)(Server Agent)
+    - 翻译 Agent 负责翻译文本
+    - 它会根据用户输入的文本, 翻译为目标语言
