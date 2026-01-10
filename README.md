@@ -22,6 +22,7 @@
 - [2025/6/3 A2A 协议深度解析（第 1 部分：双 Agent 同步调用场景）](https://www.douyin.com/video/7511690029983452468)
 - [2025/6/8 A2A 协议深度解析（第 2 部分：流式返回+多 Agent 场景）](https://www.douyin.com/video/7513564779991076096)
 - [2025/6/21 RAG 工作机制详解——一个高质量知识库背后的技术全流程）](https://www.douyin.com/video/7518343280099118377)
+- [2025/6/21 使用 Python 构建 RAG 系统）](https://www.douyin.com/video/7523955114718088487)
 
 - [2025/11/29 Temperature & Top-p：大模型的创造力开关](https://www.douyin.com/video/7578100067626781979)
 - [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
