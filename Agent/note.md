@@ -5,6 +5,14 @@
 - 缺点
   - 虽然告诉了它要返回什么格式的结果, 但它毕竟是一个概率模型, 还是可能返回格式不对(如果发现返回的结果不符合要求, 会尝试重新请求)
 
+## ReAct(Reasoning and Acting) 模式
+
+- 即 ReAct 模式, 它是一种 Agent 运行模式
+
+## Plan-and-Execute 模式
+
+- 即 Plan and Execute 模式, 它是一种 Agent 运行模式
+
 ## Agent Tool
 
 - 即一个工具(Tool), 它可以帮助 Agent 完成特定的任务
