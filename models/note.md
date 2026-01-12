@@ -19,7 +19,7 @@
   - GLM
 - 月之暗面
   - Kimi
-- MiniMax
+- 海螺
   - MiniMax
 - 腾讯
   - 元宝
