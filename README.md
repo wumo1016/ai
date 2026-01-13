@@ -4,9 +4,6 @@
 
 ## 公众号
 
-- 量子位
-- 新智元
-- 机器之心
 - 卡兹克
 
 ## 马克的技术工坊
@@ -25,8 +22,8 @@
 - [2025/7/6 使用 Python 构建 RAG 系统）](https://www.douyin.com/video/7523955114718088487)
 - [2025/7/22 Agent 的概念、原理与构建模式）](https://www.douyin.com/video/7529703060969508130)
 - [2025/8/10 Context Engineering：概念与技术实现）](https://www.douyin.com/video/7536892446995680522)
-
 - [2025/11/29 Temperature & Top-p：大模型的创造力开关](https://www.douyin.com/video/7578100067626781979)
+- [2025/12/14 Token 到底是什么？—— 揭秘大模型背后的“文字压缩术”](https://www.douyin.com/video/7583589292337892614)
 - [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
 
 ## 未来
