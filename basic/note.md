@@ -1,3 +1,7 @@
+## AGI(Artificial General Intelligence) 通用人工智能
+
+## AIGC(AI Generated Content) 人工智能生成内容
+
 ## 提示词
 
 - User Prompt(用户提示词)
