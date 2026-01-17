@@ -18,7 +18,7 @@
 - OpenAI
   - chatgpt
   - codex
-- 谷歌
+- 谷歌(DeepMind)
   - Gemini
 - x
   - Gork
@@ -26,18 +26,29 @@
   - claude
 - deepseek
   - deepseek
-- 字节
-  - 豆包
 - 阿里
-  - 通义千问
+  - 千问
+- 字节
+  - seed
+  - 豆包
+- 腾讯
+  - 混元
+  - 元宝
 - 智普
   - GLM
 - 月之暗面
   - Kimi
 - 海螺
   - MiniMax
-- 腾讯
-  - 元宝
+
+## AI 六小虎
+
+- 百川智能
+- 零一万物
+- 智谱
+- 月之暗面
+- 海螺
+- 阶跃星辰
 
 ## 原理
 
