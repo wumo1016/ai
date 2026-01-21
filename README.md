@@ -26,6 +26,10 @@
 - [2025/12/14 Token 到底是什么？—— 揭秘大模型背后的“文字压缩术”](https://www.douyin.com/video/7583589292337892614)
 - [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
 
+## [技术爬爬虾](https://space.bilibili.com/316183842/upload/video)
+
+- [2026/1/7 Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.bilibili.com/video/BV1HuiyBQE9G/?spm_id_from=333.1387.upload.video_card.click)
+
 ## 未来
 
 ### 思维转变

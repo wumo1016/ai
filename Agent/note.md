@@ -19,6 +19,7 @@
 
 ## Agent Skill
 
+- github热门skill: https://github.com/ComposioHQ/awesome-claude-skills
 - 简介: 大模型可以随时翻阅的说明文档
   - 例如
     - 智能客服 Skill
@@ -41,6 +42,11 @@
 - 与 MCP 的区别
   - MCP: 给大模型提供数据
   - Agent Skill: 教大模型如何处理数据
+- skills 目录
+  - SKILL.md: 介绍 + 元数据
+  - scripts: 可执行脚本
+  - references: 文档
+  - assets: 一些静态资源
 
 ## A2A 协议
 

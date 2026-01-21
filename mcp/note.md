@@ -118,3 +118,7 @@ uv add mcp "map[cli]" httpx
 
 - xml 格式
 - Function Calling 格式
+
+## 示例
+
+- github-mcp-server: https://github.com/github/github-mcp-server/tree/main
