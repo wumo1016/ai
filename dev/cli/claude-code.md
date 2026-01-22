@@ -1,6 +1,8 @@
 ## 安装
 
 ```bash
+# 先卸载
+npm uninstall -g @anthropic-ai/claude-code
 npm install -g @anthropic-ai/claude-code
 ```
 
