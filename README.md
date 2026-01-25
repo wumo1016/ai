@@ -28,12 +28,14 @@
 
 ## [技术爬爬虾](https://space.bilibili.com/316183842/upload/video)
 
-- [2026/1/7 Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.bilibili.com/video/BV1HuiyBQE9G/?spm_id_from=333.1387.upload.video_card.click)
-- [2026/1/17 OpenCode详细攻略，开源版Claude Code，免费模型与神级插件](https://www.bilibili.com/video/BV1BVrXBUEbR/?spm_id_from=333.1387.upload.video_card.click)
+- [2026/2/23]
+- [2026/1/17 OpenCode详细攻略，开源版Claude Code，免费模型与神级插件](https://www.douyin.com/video/7596320684435983659)
+- [2026/1/7 Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.douyin.com/video/7592521205031177499)
 - [2025/12/8]
-- 
+-
 - [2025/11/15 Obsidian邪修用法，免费云同步，AI，手机端，进阶技巧](https://www.bilibili.com/video/BV1fZCyBYEuT/?spm_id_from=333.1387.upload.video_card.click)
-- 
+-
+- [2025/6/28 40分钟Docker实战攻略，一期视频精通Docker](https://www.douyin.com/video/7520920823104867636)
 
 ## 未来
 
