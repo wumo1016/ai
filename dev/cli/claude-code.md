@@ -32,3 +32,50 @@ npm install -g @anthropic-ai/claude-code
   "hasCompletedOnboarding": true
 }
 ```
+
+## 启动
+
+- `claude`
+  - 参数
+    - `--dangerously-skip-permissions`: 跳过权限检测
+    - `-c`: 启动并自动恢复上一次的对话
+
+## 三种模式
+
+- 默认模式
+  - `? for shortcuts`
+  - 修改文件前会询问用户
+- 自动模式
+  - `accept edits on`
+  - 不会询问用户, 直接修改文件
+- 规划模式
+  - `plan mode on`
+  - 只讨论, 不会修改文件
+
+## 常用命令
+
+- `/init`: 通读整个项目文件夹, 生成一个 CLAUDE.md 它会作为整个系统的提示词
+- `/tasks`: 查看当前任务
+- `/rewind`: 回滚到上一个任务
+  - 按两次 `Esc` 可以指定回滚到哪个任务
+  - 回滚选项
+    - 回滚 会话+代码
+    - 回滚 会话
+    - 回滚 代码
+    - 放弃
+- `!`: 进入 bash 模式
+- `/resume`: 回到之前的对话
+- `/mcp`: 查看安装的 mcp
+- `/compact`: 压缩之前的对话
+  - 后面可以添加压缩的需求, 例如: 重点保护用户的需求
+- `/clear`: 清空之前的对话上下文
+- `/memory`: 编辑规则文件
+- `/hooks`: 一些 hook 函数
+- `/agents`
+  - `Create new agent`: 创建一个新的智能体
+- `/[Skill 名称] [参数]`: 调用一个 skill
+- `/plugin`: 插件相关
+
+## plugin
+
+- 将 map、hook、skill、sub agent 等能力打包成一个插件, 安装插件可以直接使用它的所有能力

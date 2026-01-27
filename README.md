@@ -25,6 +25,7 @@
 - [2025/11/29 Temperature & Top-p：大模型的创造力开关](https://www.douyin.com/video/7578100067626781979)
 - [2025/12/14 Token 到底是什么？—— 揭秘大模型背后的“文字压缩术”](https://www.douyin.com/video/7583589292337892614)
 - [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
+- [2026/1/25 Claude Code 从 0 到 1 全攻略](https://www.douyin.com/video/7599230984264879375)
 
 ## [技术爬爬虾](https://space.bilibili.com/316183842/upload/video)
 
