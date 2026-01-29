@@ -8,36 +8,37 @@
 
 ## 马克的技术工坊
 
-- [2025/1/30 客观评测 DeepSeek-R1 与 o1 的效果](https://www.douyin.com/video/7465705998481755418)
-- [2025/2/3 5 分钟教会你如何本地部署 DeepSeek-R1，无需联网](https://www.douyin.com/video/7467014931121048859)
-- [2025/2/4 使用 DeepSeek R1 搭建本地知识库](https://www.douyin.com/video/7467549685121699135)
-- [2025/4/15 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 基础篇](https://www.douyin.com/video/7493337216203148563)
-- [2025/4/19 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 进阶篇](https://www.douyin.com/video/7495023371781033266)
-- [2025/5/2 MCP 终极指南-番外篇：抓包分析 Cline 与模型的协议](https://www.douyin.com/video/7499835360306842919)
-- [2025/5/18 MCP 与 Function Calling 到底什么关系](https://www.douyin.com/video/7505583429250026789)
-- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762195270929700)
-- [2025/6/3 A2A 协议深度解析（第 1 部分：双 Agent 同步调用场景）](https://www.douyin.com/video/7511690029983452468)
-- [2025/6/8 A2A 协议深度解析（第 2 部分：流式返回+多 Agent 场景）](https://www.douyin.com/video/7513564779991076096)
-- [2025/6/21 RAG 工作机制详解——一个高质量知识库背后的技术全流程）](https://www.douyin.com/video/7518343280099118377)
-- [2025/7/6 使用 Python 构建 RAG 系统）](https://www.douyin.com/video/7523955114718088487)
-- [2025/7/22 Agent 的概念、原理与构建模式）](https://www.douyin.com/video/7529703060969508130)
-- [2025/8/10 Context Engineering：概念与技术实现）](https://www.douyin.com/video/7536892446995680522)
-- [2025/11/29 Temperature & Top-p：大模型的创造力开关](https://www.douyin.com/video/7578100067626781979)
-- [2025/12/14 Token 到底是什么？—— 揭秘大模型背后的“文字压缩术”](https://www.douyin.com/video/7583589292337892614)
-- [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
 - [2026/1/25 Claude Code 从 0 到 1 全攻略](https://www.douyin.com/video/7599230984264879375)
+- [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
+- [2025/12/14 Token 到底是什么？—— 揭秘大模型背后的"文字压缩术"](https://www.douyin.com/video/7583589292337892614)
+- [2025/11/29 Temperature & Top-p：大模型的创造力开关](https://www.douyin.com/video/7578100067626781979)
+- [2025/8/10 Context Engineering：概念与技术实现）](https://www.douyin.com/video/7536892446995680522)
+- [2025/7/22 Agent 的概念、原理与构建模式）](https://www.douyin.com/video/7529703060969508130)
+- [2025/7/6 使用 Python 构建 RAG 系统）](https://www.douyin.com/video/7523955114718088487)
+- [2025/6/21 RAG 工作机制详解——一个高质量知识库背后的技术全流程）](https://www.douyin.com/video/7518343280099118377)
+- [2025/6/8 A2A 协议深度解析（第 2 部分：流式返回+多 Agent 场景）](https://www.douyin.com/video/7513564779991076096)
+- [2025/6/3 A2A 协议深度解析（第 1 部分：双 Agent 同步调用场景）](https://www.douyin.com/video/7511690029983452468)
+- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762195270929700)
+- [2025/5/18 MCP 与 Function Calling 到底什么关系](https://www.douyin.com/video/7505583429250026789)
+- [2025/5/2 MCP 终极指南-番外篇：抓包分析 Cline 与模型的协议](https://www.douyin.com/video/7499835360306842919)
+- [2025/4/19 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 进阶篇](https://www.douyin.com/video/7495023371781033266)
+- [2025/4/15 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 基础篇](https://www.douyin.com/video/7493337216203148563)
+- [2025/2/4 使用 DeepSeek R1 搭建本地知识库](https://www.douyin.com/video/7467549685121699135)
+- [2025/2/3 5 分钟教会你如何本地部署 DeepSeek-R1，无需联网](https://www.douyin.com/video/7467014931121048859)
+- [2025/1/30 客观评测 DeepSeek-R1 与 o1 的效果](https://www.douyin.com/video/7465705998481755418)
 
 ## [技术爬爬虾](https://space.bilibili.com/316183842/upload/video)
 
-- [2026/2/23]
 - [2026/1/22 爆火的Skills怎么用？TRAE Skills多场景实战](https://www.douyin.com/video/7597350186406513954)
 - [2026/1/17 OpenCode详细攻略，开源版Claude Code，免费模型与神级插件](https://www.douyin.com/video/7596320684435983659)
 - [2026/1/7 Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.douyin.com/video/7592521205031177499)
-- [2025/12/8]
--
-- [2025/11/15 Obsidian邪修用法，免费云同步，AI，手机端，进阶技巧](https://www.bilibili.com/video/BV1fZCyBYEuT/?spm_id_from=333.1387.upload.video_card.click)
+- [2025/11/15 Obsidian邪修用法，免费云同步，AI，手机端，进阶技巧](https://www.douyin.com/video/7533182551653944602)
+- [2025/7/13 边缘函数中转Gemini API，国内免费爽用，云函数入门](https://www.douyin.com/video/7533182551653944602)
 -
 - [2025/6/28 40分钟Docker实战攻略，一期视频精通Docker](https://www.douyin.com/video/7520920823104867636)
+-
+- [2025/5/2 免费域名能干什么？CDN，个人网站，访问家庭内网等](https://www.douyin.com/video/7499843288191552806)
+-
 
 ## 未来
 
