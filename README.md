@@ -33,11 +33,14 @@
 - [2026/1/17 OpenCode详细攻略，开源版Claude Code，免费模型与神级插件](https://www.douyin.com/video/7596320684435983659)
 - [2026/1/7 Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.douyin.com/video/7592521205031177499)
 - [2025/11/15 Obsidian邪修用法，免费云同步，AI，手机端，进阶技巧](https://www.douyin.com/video/7533182551653944602)
-- [2025/7/13 边缘函数中转Gemini API，国内免费爽用，云函数入门](https://www.douyin.com/video/7533182551653944602)
+- [2025/7/31 边缘函数中转Gemini API，国内免费爽用，云函数入门](https://www.douyin.com/video/7533182551653944602)
+- [2025/7/14 下一代容器管理工具Podman，对比Docker有哪些优势?](https://www.douyin.com/video/7526928641083575602)
 -
 - [2025/6/28 40分钟Docker实战攻略，一期视频精通Docker](https://www.douyin.com/video/7520920823104867636)
 -
 - [2025/5/2 免费域名能干什么？CDN，个人网站，访问家庭内网等](https://www.douyin.com/video/7499843288191552806)
+-
+- [2024/7/28 超详细的WSL教程：Windows上的Linux子系统](https://www.douyin.com/video/7396663424882625818)
 -
 
 ## 未来
