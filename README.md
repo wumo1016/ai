@@ -1,3 +1,13 @@
+## 目录
+
+- Agent: 智能体
+- basic: 基础
+- dev: 开发工具
+- mcp: mcp 相关
+- models: 大模型
+- RAG: RAG
+- tools: 应用工具
+
 ## 视频教程
 
 - [行业黑话](https://www.bilibili.com/video/BV1BP3CzfEcC/?spm_id_from=333.1391.0.0&vd_source=bee7e89dc1566e63332e9c732f473837)
@@ -39,7 +49,7 @@
 - [2025/5/2 免费域名能干什么？CDN，个人网站，访问家庭内网等](https://www.douyin.com/video/7499843288191552806)
 - [2025/1/25 NodeJs杀手？Deno从入门到实战。免费部署web服务](https://www.douyin.com/video/7463832406861139209)
 - 2024/12/19
-- 
+-
 - [2024/7/28 超详细的WSL教程：Windows上的Linux子系统](https://www.douyin.com/video/7396663424882625818)
 -
 
