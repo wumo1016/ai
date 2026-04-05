@@ -122,3 +122,5 @@ uv add mcp "map[cli]" httpx
 ## 示例
 
 - github-mcp-server: https://github.com/github/github-mcp-server/tree/main
+- [mcporter](https://github.com/steipete/mcporter)
+  - 将 mcp 转换为 cli
