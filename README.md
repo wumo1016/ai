@@ -28,7 +28,7 @@
 - [2025/6/21 RAG 工作机制详解——一个高质量知识库背后的技术全流程）](https://www.douyin.com/video/7518343280099118377)
 - [2025/6/8 A2A 协议深度解析（第 2 部分：流式返回+多 Agent 场景）](https://www.douyin.com/video/7513564779991076096)
 - [2025/6/3 A2A 协议深度解析（第 1 部分：双 Agent 同步调用场景）](https://www.douyin.com/video/7511690029983452468)
-- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762195270929700)
+- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762 195270929700)
 - [2025/5/18 MCP 与 Function Calling 到底什么关系](https://www.douyin.com/video/7505583429250026789)
 - [2025/5/2 MCP 终极指南-番外篇：抓包分析 Cline 与模型的协议](https://www.douyin.com/video/7499835360306842919)
 - [2025/4/19 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 进阶篇](https://www.douyin.com/video/7495023371781033266)
@@ -39,9 +39,11 @@
 
 ## [技术爬爬虾](https://space.bilibili.com/316183842/upload/video)
 
+- [2026/4/2 为什么巨头都在做CLI(命令行界面)？比起MCP有哪些优势？](https://www.douyin.com/video/7623768514364525858)
 - [2026/1/22 爆火的Skills怎么用？TRAE Skills多场景实战](https://www.douyin.com/video/7597350186406513954)
 - [2026/1/17 OpenCode详细攻略，开源版Claude Code，免费模型与神级插件](https://www.douyin.com/video/7596320684435983659)
 - [2026/1/7 Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.douyin.com/video/7592521205031177499)
+
 - [2025/11/15 Obsidian邪修用法，免费云同步，AI，手机端，进阶技巧](https://www.douyin.com/video/7533182551653944602)
 - [2025/7/31 边缘函数中转Gemini API，国内免费爽用，云函数入门](https://www.douyin.com/video/7533182551653944602)
 - [2025/7/14 下一代容器管理工具Podman，对比Docker有哪些优势?](https://www.douyin.com/video/7526928641083575602)
