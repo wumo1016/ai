@@ -18,6 +18,8 @@
 
 ## 马克的技术工坊
 
+- 2026/4/10
+-
 - [2026/1/25 Claude Code 从 0 到 1 全攻略](https://www.douyin.com/video/7599230984264879375)
 - [2025/12/31 Agent Skill 从使用到原理，一次讲清](https://www.douyin.com/video/7590008747938876706)
 - [2025/12/14 Token 到底是什么？—— 揭秘大模型背后的"文字压缩术"](https://www.douyin.com/video/7583589292337892614)
