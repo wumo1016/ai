@@ -41,7 +41,7 @@ npm install -g @anthropic-ai/claude-code
     - `-c`: 启动并自动恢复上一次的对话
     - `-p [问题]`: 一次性问答
 
-## 三种模式
+## 三种模式(shift + tab 切换模式)
 
 - 默认模式
   - `? for shortcuts`
