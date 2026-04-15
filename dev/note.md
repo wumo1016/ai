@@ -7,8 +7,8 @@
 - bug 修复
   - 如果有 bug, 直接说哪里有问题
 
-
 ## 开发模式
+
 - Agent(普通) 模式
 - Plan(规划) 模式
   - 特点
@@ -20,3 +20,9 @@
     - checklist.md: 功能检查文档, 类似测试用例
   - 特点
     - 重流程
+
+## 技能
+
+- 技能市场: https://skills.sh/
+- 安装技能: `npx skills add <owner/repo>`
+- 安装查找技能: `npx skills add https://github.com/vercel-labs/skills --skill find-skills`
