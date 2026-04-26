@@ -11,25 +11,28 @@ npm install -g @anthropic-ai/claude-code
 - 打开(创建)以下文件添加一下内容
   - win: 用户/.claude/settings.json
   - mac: ~/.claude/settings.json
+- 配置注释
+  - env
+    - ANTHROPIC_BASE_URL: 模型 api 地址
+    - ANTHROPIC_AUTH_TOKEN: 从 bigmodel.cn 获取的 api key
+    - ANTHROPIC_DEFAULT_HAIKU_MODEL: Haiku 是 Claude 系列中速度最快、成本最低的轻量级模型，通常用于处理简单任务
+    - ANTHROPIC_DEFAULT_SONNET_MODEL: Sonnet 是 Claude 的“主力”模型，平衡了智能与速度
+    - ANTHROPIC_DEFAULT_OPUS_MODEL: Opus 是 Claude 系列中最强大、最智能的模型，用于处理复杂推理任务
+    - ANTHROPIC_MAX_TOKENS: 模型单次回复的最大生成长度
+    - ANTHROPIC_TIMEOUT_MS: 请求的超时时间，单位是毫秒
+    - CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: 禁用非必要的流量
+- 配置文件示例(不可以有注释)
 
 ```json
 {
   "env": {
-    /* bigmodel.cn 的 api 地址 */
     "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
-    /* 从 bigmodel.cn 获取的 api key */
-    "ANTHROPIC_AUTH_TOKEN": "",
-    /* Haiku 是 Claude 系列中速度最快、成本最低的轻量级模型，通常用于处理简单任务 */
+    "ANTHROPIC_AUTH_TOKEN": "你的 api key",
     "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-5.1",
-    /* Sonnet 是 Claude 的“主力”模型，平衡了智能与速度 */
     "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5.1",
-    /* Opus 是 Claude 系列中最强大、最智能的模型，用于处理复杂推理任务 */
     "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5.1",
-    /* 模型单次回复的最大生成长度 */
     "ANTHROPIC_MAX_TOKENS": "3200000",
-    /* 请求的超时时间，单位是毫秒 */
     "ANTHROPIC_TIMEOUT_MS": "3000000",
-    /* 禁用非必要的流量 */
     "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
   }
 }
@@ -70,6 +73,7 @@ npm install -g @anthropic-ai/claude-code
 ## 常用命令
 
 - `/init`: 通读整个项目文件夹, 生成一个 CLAUDE.md 它会作为整个系统的提示词
+- `/status`: 查看当前状态
 - `!`: 进入 bash 模式
 - `/compact`: 压缩之前的对话
   - 后面可以添加压缩的需求, 例如: 重点保护用户的需求
@@ -134,4 +138,6 @@ npm install -g @anthropic-ai/claude-code
 
 ## 开发技巧
 
-- Alt+K: 添加选择的代码到当前对话
+- 添加选择的文件/代码到当前对话
+  - win: Ctrl+Alt+K
+  - mac: Cmd+Alt+K
