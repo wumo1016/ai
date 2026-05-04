@@ -40,7 +40,7 @@
 
 ## [技术爬爬虾](https://space.bilibili.com/316183842/upload/video)
 
-- 2026/4/9
+- [2026/4/11 CLI+Skill 浏览器AI自动化框架 ，告别一切重复任务](https://www.douyin.com/video/7627501463777856774)
 - [2026/4/1 为什么巨头都在做CLI(命令行界面)？比起MCP有哪些优势？](https://www.douyin.com/video/7623768514364525858)
 - [2026/1/22 爆火的Skills怎么用？TRAE Skills多场景实战](https://www.douyin.com/video/7597350186406513954)
 - [2026/1/17 OpenCode详细攻略，开源版Claude Code，免费模型与神级插件](https://www.douyin.com/video/7596320684435983659)

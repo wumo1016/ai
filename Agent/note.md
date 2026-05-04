@@ -61,3 +61,10 @@
   - 翻译 Agent(A2A Server)(Server Agent)
     - 翻译 Agent 负责翻译文本
     - 它会根据用户输入的文本, 翻译为目标语言
+
+## 自动化测试 skills
+
+- npm install -g @playwright/cli@latest
+- playwright-cli install --skills
+- 执行复杂任务, 不断调试, 直至得到预期结果
+- 让 ai 将得到结果的过程总结成一个 skill

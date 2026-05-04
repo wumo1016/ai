@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Skill(glm-plan-usage:usage-query-skill)"
+      "Skill(glm-plan-usage:usage-query-skill)",
+      "Skill(playwright-cli)",
+      "Bash(playwright-cli close *)",
+      "Bash(playwright-cli open *)",
+      "Bash(playwright-cli fill *)",
+      "Bash(playwright-cli screenshot *)"
     ]
   }
 }
