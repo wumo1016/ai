@@ -1,10 +1,18 @@
 ## AI 发展史
 
-### 阶段 1 - 提示词工程
+<img src="./images/AI发展史.png" alt="AI发展史.png" width="600px">
 
-### 阶段 2 - 上下文工程
+### 阶段 1 - Prompt Engineering 提示词工程
 
-### 阶段 3 - Harness Engineering
+- 简单的说就是发给大模型的话, 它就是研究怎么把这句话说清楚的技术
+
+### 阶段 2 - Context Engineering 上下文工程
+
+- 通常发给大模型的内容有对话历史, 当前的问题, 工具列表等等, 但是上下文是有限的, 所以需要精心控制上下文内容
+
+### 阶段 3 - Harness Engineering 工具工程
+
+- Harness: 马具, 顾名思义, 它就是一个用来控制和驾驭大模型的系统
 
 ## 编程发展史
 
