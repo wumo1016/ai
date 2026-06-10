@@ -26,3 +26,6 @@
 - 技能市场: https://skills.sh/
 - 安装技能: `npx skills add <owner/repo>`
 - 安装查找技能: `npx skills add https://github.com/vercel-labs/skills --skill find-skills`
+
+## cc-switch
+- [地址](https://github.com/farion1231/cc-switch/releases)
