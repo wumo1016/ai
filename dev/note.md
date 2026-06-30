@@ -7,6 +7,14 @@
 - bug 修复
   - 如果有 bug, 直接说哪里有问题
 
+## 提示词
+
+- 第一性原理
+  - 在问题后面加上, 从第一性原理出发, 解决问题
+
+- 对抗式审查
+  - 在问题后面加上, 然后进行对抗式审查, 解决问题
+
 ## 开发模式
 
 - Agent(普通) 模式
@@ -28,4 +36,5 @@
 - 安装查找技能: `npx skills add https://github.com/vercel-labs/skills --skill find-skills`
 
 ## cc-switch
+
 - [地址](https://github.com/farion1231/cc-switch/releases)
