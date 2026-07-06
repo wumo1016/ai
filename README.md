@@ -18,6 +18,7 @@
 
 ## 马克的技术工坊
 
+- [2026/6/28 如何使用第三方模型驱动Codex 无需OpenAI账号](https://www.douyin.com/video/7656439735560228123)
 - [2026/6/8 Codex 从0到1全攻略](https://www.douyin.com/video/7648838418205641994)
 - [2026/5/7 Harness Engineering 到底是什么？](https://www.douyin.com/video/7636365606182325544)
 - [2026/1/25 Claude Code 从 0 到 1 全攻略](https://www.douyin.com/video/7599230984264879375)
