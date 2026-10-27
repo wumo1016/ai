@@ -18,6 +18,7 @@
 
 ## 马克的技术工坊
 
+- 2026/10/26
 - [2026/6/28 如何使用第三方模型驱动Codex 无需OpenAI账号](https://www.douyin.com/video/7656439735560228123)
 - [2026/6/8 Codex 从0到1全攻略](https://www.douyin.com/video/7648838418205641994)
 - [2026/5/7 Harness Engineering 到底是什么？](https://www.douyin.com/video/7636365606182325544)
@@ -31,7 +32,7 @@
 - [2025/6/21 RAG 工作机制详解——一个高质量知识库背后的技术全流程）](https://www.douyin.com/video/7518343280099118377)
 - [2025/6/8 A2A 协议深度解析（第 2 部分：流式返回+多 Agent 场景）](https://www.douyin.com/video/7513564779991076096)
 - [2025/6/3 A2A 协议深度解析（第 1 部分：双 Agent 同步调用场景）](https://www.douyin.com/video/7511690029983452468)
-- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762 195270929700)
+- [2025/5/26 OpenAI 的 RAG 范例，无需向量化！](https://www.douyin.com/video/7508762195270929700)
 - [2025/5/18 MCP 与 Function Calling 到底什么关系](https://www.douyin.com/video/7505583429250026789)
 - [2025/5/2 MCP 终极指南-番外篇：抓包分析 Cline 与模型的协议](https://www.douyin.com/video/7499835360306842919)
 - [2025/4/19 MCP 终极指南 - 从原理到实战，带你深入掌握 MCP 进阶篇](https://www.douyin.com/video/7495023371781033266)
